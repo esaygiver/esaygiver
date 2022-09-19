@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emirhan Saygiver</h1>
 <h3 align="center">A passionate iOS Developer from Turkey</h3>
 
-![Screen Shot 2022-09-01 at 12 53 28](https://user-images.githubusercontent.com/73871735/187887215-f31b9dd2-3119-40de-9fc7-107f8643f29e.png)
+![Screen Shot 2022-09-19 at 10 36 17](https://user-images.githubusercontent.com/73871735/190970161-674cfdd8-0ed5-4360-823f-46365d3a657c.png)
 
 ![Screen Shot 2022-09-01 at 12 56 53](https://user-images.githubusercontent.com/73871735/187887231-8afab5fa-4b3d-4c79-97a0-c07a1165771b.png)
 
