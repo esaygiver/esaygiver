@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emirhan Saygiver</h1>
 <h3 align="center">A passionate iOS Developer from Turkey</h3>
 
-![Screen Shot 2023-01-06 at 11 32 27](https://user-images.githubusercontent.com/73871735/210962465-f260d2c2-f68c-4535-af03-6f07e27274ed.png)
+<img width="460" alt="Screen Shot 2023-03-16 at 01 37 11" src="https://user-images.githubusercontent.com/73871735/225458977-cb551eda-b0a8-4c85-bbcb-0fb7ca81dad1.png">
 
 - 🔭 I’m currently working on **VNGRS** , ex: Huawei, AppcentTech
 
